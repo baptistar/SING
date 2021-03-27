@@ -12,5 +12,5 @@ E-mails: <rsb@mit.edu>, <rebeccam@colorado.edu>, <ymarz@mit.edu> and <olivier.za
 
 ## Installation
 
-The SING algorithm is implemented in Python using the [TransportMaps](https://transportmaps.mit.edu/docs/) package. The algorithm can be found in the `SING` folder. Scripts to reproduce all of the results for each of the examples in the preprint can be found in the remaining folders.
+The SING algorithm is implemented in Python using the [TransportMaps](https://transportmaps.mit.edu/docs/) package. The algorithm can be found in the `SING` folder. Scripts to reproduce the figures for all of the examples in the preprint can be found in the remaining folders.
 
